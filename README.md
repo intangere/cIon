@@ -1,13 +1,13 @@
 Seq2Seq Chatbot written using Tensorflow
 --
-(Not sure if the source code for this will be released currently.)
-cIon utilizes a embedded recurrent neural network to allow for natural conversations to take place.
-A dataset (16.3MB) of a little over 300,000 lines of movie dialogue was used.
-Step time is about: 4.41 seconds
-It has been trained for just about 15,000 steps so far within 24 hours over the course of three days. 
-(Because I didn't run it all day long.)
-cIon seems to reply quite well at it's current stage.
-Examples: (These aren't hand picked, they are presented as they happened on the 14,400th step)
+(Not sure if the source code for this will be released currently.)<br>
+cIon utilizes a embedded recurrent neural network to allow for natural conversations to take place.<br>
+A dataset (16.3MB) of a little over 300,000 lines of movie dialogue was used.<br>
+Step time is about: 4.41 seconds<br>
+It has been trained for just about 15,000 steps so far within 24 hours over the course of three days. <br>
+(Because I didn't run it all day long.)<br>
+cIon seems to reply quite well at it's current stage.<br>
+Examples: (These aren't hand picked, they are presented as they happened on the 14,400th step)<br>
 >Me: hi.<br>
 >cIon: hi.<br>
 >Me: hello<br>
