@@ -31,8 +31,8 @@ Examples: (These aren't hand picked, they are presented as they happened on the 
 >Me: does god exist?<br>
 >cIon: no.<br>
 
-The bot seems to have some morality. 
-It's context understanding is debatable at this stage but from previous conversations I've had with it, it did demonstrate basic context understanding.
-Note: Not all of it's sentences are so short. This is simply a quick convo I just had with it.
+The bot seems to have some morality. <br>
+It's context understanding is debatable at this stage but from previous conversations I've had with it, it did demonstrate basic context understanding.<br>
+Note: Not all of it's sentences are so short. <br> This is simply a quick convo I just had with it.
 
 
