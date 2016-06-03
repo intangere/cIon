@@ -30,6 +30,7 @@ Examples: (These aren't hand picked, they are presented as they happened on the 
 >cIon: because I don't know.<br>
 >Me: does god exist?<br>
 >cIon: no.<br>
+
 The bot seems to have some morality. Not all of it's sentences are so short. This is simply a quick convo I just had with it.
 
 
