@@ -19,9 +19,10 @@ vocab_path = os.path.join(FLAGS.data_dir,
                              "vocab%d.in" % FLAGS.vocab_size)
 vocab, vocab_rev = data_utils.initialize_vocabulary(vocab_path)
 
-@app.route('/')
+@app.route('/', methods=['get'])
 def index():
-	return 'Define your chat handling code here using model.respond(sentence)'
+	#'Define your chat handling code here using 
+	return model.respond(request.get.args('input'))
 
 
 app.debug = False
