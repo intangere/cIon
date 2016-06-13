@@ -12,6 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ==============================================================================
+#Modified my Intangere to use embedding instead of attention
 
 """Sequence-to-sequence model with embedding, no attention"""
 
